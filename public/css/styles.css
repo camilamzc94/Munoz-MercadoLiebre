@@ -6,8 +6,24 @@ body{
     background-color: #EAC926;
 }
 
+.bg-blue{
+    background-color: #03264C;
+}
+
+.bg-light-blue{
+    background-color: #1259c3;
+}
+
+.bg-dark-grey{
+    background-color: #666;
+}
+
 .bg-light-grey{
     background-color: #ebebeb;
+}
+
+.bg-green{
+    background-color: #39b54a;
 }
 
 .w-50{
