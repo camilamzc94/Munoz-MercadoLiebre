@@ -250,3 +250,87 @@ img{
 .product:hover .description {
     display: block;
   }
+
+footer{
+    background-color: white;
+    padding: 40px 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-article{
+    text-align: center;
+    width: 100%;
+}
+
+.copyright-footer{
+    text-align: center;
+    width: 100%;
+}
+
+.footer-icon{
+    color: #1259c3;
+    font-size: 2em;
+    margin-bottom: 10px;
+    transition: all 0.3s;
+}
+
+.footer-icon:hover{
+    color: #0022AA;
+}
+
+.footer-text{
+    margin-bottom: 30px;
+}
+
+.register {
+    width: 70%;
+}
+
+.login{
+    width: 70%;
+}
+
+.main-title{
+    width: 100%;
+    margin: 20px 0;
+}
+
+.createaccount {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+.form-div{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.name-div{
+    width: 49%;
+}
+
+.names-input{
+    width: 100%;
+}
+
+.form-input{
+    padding: 15px;
+}
+
+.label-title{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.user-profile-option{
+    width: 100%;
+    margin-top: 13px;
+}
+
+.intcategory{
+    width: 100%;
+    margin-top: 13px;
+}
